@@ -16,3 +16,9 @@ A powerful simulation platform for researchers to model genetic drift, natural s
 ## Purpose
 
 Designed for evolutionary biologists, population geneticists, and researchers studying evolutionary processes, drift provides the tools to explore how genetic variation changes over time under different evolutionary forces.
+
+## Documentation
+
+For more information, see:
+- **[CHANGELOG.md](CHANGELOG.md)** - Release history and notable changes
+- **[CONTRIBUTORS.md](CONTRIBUTORS.md)** - Contributors and how to get involved
