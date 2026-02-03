@@ -29,6 +29,8 @@ We welcome contributions from researchers, developers, and enthusiasts intereste
 
 We are committed to providing a welcoming and inclusive environment for all contributors. Please treat all community members with respect and professionalism.
 
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for our full code of conduct, including our commitment to proper review processes and repository hygiene.
+
 ### Pull Request Guidelines
 
 - Provide a clear description of what your PR addresses
